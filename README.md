@@ -31,7 +31,17 @@ There are two major types of devices that you will code for in the Internet of T
   - Johnny5
     - JS converter to basically any hardware above
 
+...and many more!
 
+### Potential Projects
+
+![](iotOptions.png)
+
+![](iotSoil.jpeg)
+
+![](iotLights.jpg)
+
+![](iotBrew.png)
 
 ## Resources
 
