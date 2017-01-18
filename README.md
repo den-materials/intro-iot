@@ -18,6 +18,9 @@ There are two major types of devices that you will code for in the Internet of T
   - Arduino (contains a **microcontroller**)
   - Raspberry Pi (is a **microcomputer**)
   - Beaglebone Black (is a **microcomputer**)
+  - Tessel (is a **microcomputer**)
+
+...and many more!
 
 ### Software / Languages
 
